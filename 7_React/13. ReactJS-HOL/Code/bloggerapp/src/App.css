@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+  font-family: sans-serif;
+}
+
+.column {
+  border-left: 4px solid green;
+  padding-left: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+p {
+  font-size: 14px;
+}
